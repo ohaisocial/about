@@ -17,7 +17,7 @@ There are currently three moderators for ohai.social:
 
 Our moderation guidelines can be found at . This is primarily an internal document for moderators.
 
-## Instance silencing/deferation
+## Instance defederation
 
 We generally try to avoid suspending instances and instead prefer blocking individual accounts. But we do not hesitate to suspend instances where necessary either.
 
