@@ -1,15 +1,16 @@
-+++
-title = "Moderation on ohai.social"
-date = "2022-12-05"
-author = "ohai.social team"
-+++
+---
+title: "Moderation on ohai.social"
+date: "2022-12-05"
+author: "ohai.social team"
+ShowBreadCrumbs: false
+---
 
 ## Moderation team
 
 There are currently three moderators for ohai.social:
 
-  * [@lutoma](https://ohai.social/@lutoma) --- he/him --- 🇪🇺 EU
-  * [@silsha](https://ohai.social/@silsha) --- he/him --- 🇪🇺 EU
+  * [@lutoma](https://ohai.social/@lutoma) (he/him) 🇪🇺
+  * 🇪[@silsha](https://ohai.social/@silsha) (he/him) 🇪🇺
 
 
 ## Guidelines

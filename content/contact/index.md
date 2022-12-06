@@ -1,8 +1,10 @@
-+++
-title = "Contact"
-date = "2022-12-05"
-author = "ohai.social team"
-+++
+---
+title: "Contact"
+date: "2022-12-05"
+author: "ohai.social team"
+ShowBreadCrumbs: false
+---
+
 
 The best way to reach the ohai.social team is by email to support@ohai.social.
 

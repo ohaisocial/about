@@ -1,10 +1,12 @@
-+++
-title = "Donations"
-date = "2022-12-05"
-author = "ohai.social team"
-+++
+---
+title: "Donations"
+date: "2022-12-05"
+author: "ohai.social team"
+ShowBreadCrumbs: false
+---
 
-You can support ohai.social through Patreon at https://patreon.com/ohaisocial
+
+You can support ohai.social through our Patreon at https://patreon.com/ohaisocial
 
 It is entirely optional to donate. We understand that not everyone is in a financial situation to spend money on a social media service and we want ohai.social to be a welcoming place for everyone, regardless of financial status.
 
@@ -12,28 +14,30 @@ That said, if you are able to chip in a few bucks, we very much appreciate it.
 
 ## Costs
 
-Currently, operation of ohai.social costs about €450/month. You can find a detailed breakdown below.
+Currently, operation of ohai.social costs around €450/month.
 
-| Month         | Costs | Donations | Difference |
-|---------------|-------|-----------|------------|
-| November 2022 | €450  |           |            |
+| Month         | Costs   | Donations¹ | Sum      |
+|---------------|---------|-----------|----------|
+| November 2022 | €443.50 | €145.86   | -297.64  |
 
 
-Cost breakdown:
+Monthly costs for November 2022:
 
-(Todo replace with the actual numbers)
+* Hosting: €383.52
+* Media storage: €18.06 (903 GB * €0.02)
+* Email delivery (SES): €6.30
+* Email delivery (Postmark)²: €32.50
 
-* Compute: €350
-* Volume storage (Database): €50
-* Object storage (image attachments): €6
-* Email delivery (SES): €6
-* Domain registration
+Yearly costs:
 
-Please note that these values fluctuate month-to-month due to increasing storage demand and dynamic scaling.
+* Domain registration: €37.44
+* DMCA agent registration: $6.00
 
+¹ Amount we actually receive after taxes, Patreon fees and currency conversion.  
+² We replaced Postmark with SES mid-November
 
 ## FAQ
-### I cannot use Patreon/prefer not to use Patreon. Can i donate some other way?
+### I prefer not to use Patreon. Can i donate some other way?
 
 Unforunately not.
 
