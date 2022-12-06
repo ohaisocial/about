@@ -1,0 +1,51 @@
+baseurl = "https://about.ohai.social"
+title = "about.ohai.social"
+theme = "paper"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+
+[permalinks]
+  posts = '/:slugorfilename/'
+
+[params]
+  color = 'linen'
+
+#  github = 'YOUR_GITHUB_ID'       # github.com/YOUR_GITHUB_ID
+#  instagram = 'YOUR_INSTAGRAM_ID' # instagram.com/YOUR_INSTAGRAM_ID
+#  rss = true                      # show rss icon with link
+
+  # home page profile
+  avatar = 'GRAVATAR_EMAIL'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+  name = 'YOUR_NAME'
+  bio = 'omegalul'
+
+  disableHLJS = true
+  monoDarkIcon = true
+
+[menu]
+  [[menu.main]]
+    identifier = "Home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "moderation"
+    name = "Moderation"
+    url = "/moderation/"
+    weight = 10
+  [[menu.main]]
+    identifier = "donations"
+    name = "Donations"
+    url = "/donations/"
+    weight = 20
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 30
