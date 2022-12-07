@@ -10,7 +10,7 @@ ShowBreadCrumbs: false
 There are currently three moderators for ohai.social:
 
   * [@lutoma](https://ohai.social/@lutoma) (he/him) 🇪🇺
-  * 🇪[@silsha](https://ohai.social/@silsha) (he/him) 🇪🇺
+  * [@silsha](https://ohai.social/@silsha) (he/him) 🇪🇺
 
 
 ## Guidelines
