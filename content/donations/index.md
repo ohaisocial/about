@@ -17,8 +17,8 @@ That said, if you are able to chip in a few bucks, we very much appreciate it.
 Currently, operation of ohai.social costs around €450/month.
 
 | Month         | Costs   | Donations¹ | Sum      |
-|---------------|---------|-----------|----------|
-| November 2022 | €443.50 | €145.86   | -297.64  |
+|---------------|---------|-----------|-----------|
+| November 2022 | €443.50 | €145.86   | €-297.64  |
 
 
 Monthly costs for November 2022:
@@ -37,10 +37,10 @@ Yearly costs:
 ² We replaced Postmark with SES mid-November
 
 ## FAQ
-### I prefer not to use Patreon. Can i donate some other way?
+### I prefer not to use Patreon. Can I donate some other way?
 
-Unforunately not.
+Unfortunately not at the moment. Patreon saves us a lot of work with accounting and taxation of donations. 
 
 ### Can I make a single donation instead of a monthly payment?
 
-Yes.
+Yes. The best way to make a one-time donation is to sign up to our Patreon and then cancel the membership after you've been charged. You'll know when your payment has gone through because you'll receive an email confirmation.
