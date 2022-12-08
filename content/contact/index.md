@@ -6,7 +6,7 @@ ShowBreadCrumbs: false
 ---
 
 
-The best way to reach the ohai.social team is by email to support@ohai.social.
+The best way to reach the ohai.social team is by email to support@ohai.social. You can also mention the [@ohai@ohai.social](https://ohai.social/@ohai) support account directly on Mastodon.
 
 ## Legal notice (Impressum)
 

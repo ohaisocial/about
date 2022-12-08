@@ -4,7 +4,7 @@ date = "2019-02-28"
 author = "Hugo Authors"
 +++
 
-These guidelines are mostly intended for moderators of ohai.social to aid them in their decisions while handling reports, and to ensure similar reports are handled with consistency.
+These guidelines are mostly intended for moderators of ohai.social to aid them in their decision-making as they handling reports, and to ensure similar reports are handled with consistency.
 
 They are not part of the rules as such, but hopefully help understand the way we enforce them.
 
@@ -88,17 +88,3 @@ Sometimes, links to Mastodon posts pop up in the trending links list. Generally 
 Like with hashtags, generally all posts are allowed to trend as long as they're not upsetting news/content without a Content Warning or otherwise break rules.
 
 It's also possible to whitelist entire accounts so their future posts get automatically allowed. This should mostly be reserved to 'group'/organization accounts like mastodon@mastodon.online or feditips@mstdn.social.  Individual persons should be whitelisted sparingly, but it can make sense with some larger accounts that frequently trend and are generally unproblematic.
-
-## Instance silencing/deferation
-
-Todo: A general policy of when to suspend vs. limit instances. Currently we mostly use full suspensions, but in some cases only limiting the instance might suffice?
-
-Grounds for direct suspension/defederation:
-* Instances that clearly only exist to facilitate harassment/trolling.
-* Instances that self-describe as 'free speech zone' or 'without moderation' or something to that effect (Todo: Limiting those might suffice? But we probably don't want users who would follow the content from these instances either).
-* Instances that permit content that is illegal under German law (see above).
-* Twitter mirrors (Mostly BirdsiteLive instances). They're not actively harmful, but constantly get confused with fake accounts by new users, use up comparatively much database space and generally add relatively little value. That said if a user sets up a non-public twitter mirror only for their own use, that might be okay.
-
-Reasons to limit instances:
-* Up to now we have only used the limit functionality for servers that are excessively spammy without being particularly harmful otherwise (e.g. brands.town) or that have a lot of untagged NSFW content
-* There have been some arguments made that limiting should be the default and suspension should be reserved for instances containing illegal/malicious content. But I don't know how I feel about that.

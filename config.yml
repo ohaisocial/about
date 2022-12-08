@@ -54,7 +54,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to about.ohai.social. We use this page to document a number of things about the ohai.social Mastodon instance.
+    Content: Welcome to about.ohai.social. This page contains useful information and behind-the-scenes info about the ohai.social Mastodon instance.
 
 
   cover:
