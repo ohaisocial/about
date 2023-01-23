@@ -32,7 +32,7 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-  hidemeta: true
+  hidemeta: false
   hideSummary: false
   showtoc: false
   tocopen: false
@@ -53,8 +53,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to about.ohai.social. This page contains useful information and behind-the-scenes info about the ohai.social Mastodon instance.
+    Title: "Hello there \U0001F44B"
+    Content: Welcome to about.ohai.social. This page contains useful information and behind-the-scenes info about the ohai.social Mastodon instance, as well as the occasional blog post with the musings of the ohai.social team.
 
 
   cover:
@@ -101,3 +101,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

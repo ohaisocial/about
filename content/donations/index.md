@@ -3,6 +3,7 @@ title: "Donations"
 date: "2022-12-05"
 author: "ohai.social team"
 ShowBreadCrumbs: false
+hidemeta: true
 ---
 
 
@@ -19,14 +20,13 @@ Currently, operation of ohai.social costs around €450/month.
 | Month         | Costs   | Donations¹ | Sum       |
 |---------------|---------|------------|-----------|
 | November 2022 | €440.38 | €145.86    | €-294.52  |
+| December 2022 | €640.38 | €228.56    | €-411.82  |
 
+Monthly costs for December 2022:
 
-Monthly costs for November 2022:
-
-* Hosting: €383.52
-* Media storage: €18.06 (903 GB * €0.02)
-* Email delivery (SES): €6.30
-* Email delivery (Postmark)²: €32.50
+* Hosting: ~€550
+* Media storage: €26.05 (1302 GB * €0.02)
+* Email delivery (SES): $1.23
 
 Yearly costs:
 
@@ -34,7 +34,6 @@ Yearly costs:
 * DMCA agent registration: $6.00
 
 ¹ Amount we actually receive after taxes, Patreon fees and currency conversion.  
-² We replaced Postmark with SES mid-November
 
 ## FAQ
 ### I prefer not to use Patreon. Can I donate some other way?

@@ -5,6 +5,7 @@ author: "ohai.social team"
 ShowBreadCrumbs: false
 ShowToc: true
 tocopen: true
+hidemeta: true
 ShowRssButtonInSectionTermList: false
 ---
 
@@ -12,11 +13,11 @@ ShowRssButtonInSectionTermList: false
 
 There are currently three moderators for ohai.social:
 
+  * [@dee_in_calgary](https://ohai.social/@dee_in_calgary) (she/her) 🇨🇦
   * [@lutoma](https://ohai.social/@lutoma) (he/him) 🇪🇺
   * [@silsha](https://ohai.social/@silsha) (he/him) 🇪🇺
-  * [@dee_in_calgary](https://ohai.social/@dee_in_calgary) (she/her) 🇨🇦
 
-## Rules
+## Instance rules
 
 1. We do not tolerate discriminatory behavior and content promoting or advocating the oppression of members of marginalized groups.
 2. We do not tolerate threatening behavior, stalking, doxxing, or harassment (including brigading, dogpiling, or any other form of contact with a user who has stated that they do not wish to be contacted).

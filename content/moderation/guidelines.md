@@ -2,9 +2,10 @@
 title = "Moderation guidelines"
 date = "2019-02-28"
 author = "Hugo Authors"
+draft = true
 +++
 
-These guidelines are mostly intended for moderators of ohai.social to aid them in their decision-making as they handling reports, and to ensure similar reports are handled with consistency.
+These guidelines are mostly intended for moderators of ohai.social to aid them in their decision-making as they handle reports, and to ensure similar reports are handled with consistency.
 
 They are not part of the rules as such, but hopefully help understand the way we enforce them.
 
