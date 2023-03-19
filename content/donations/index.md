@@ -17,11 +17,12 @@ That said, if you are able to chip in a few bucks, we very much appreciate it.
 
 Currently, operation of ohai.social costs around €450/month.
 
-| Month         | Costs   | Donations¹ | Sum       |
-|---------------|---------|------------|-----------|
-| November 2022 | €440.38 | €145.86    | €-294.52  |
-| December 2022 | €640.38 | €228.56    | €-411.82  |
-| January 2023  | €702.46 | €340.30    | €-362.16  |
+| Month         | Costs    | Donations¹ | Sum           | Notes     |
+|---------------|---------:|-----------:|--------------:|-----------|
+| November 2022 | €440.38  | €145.86    | **€-294.52**  |           |
+| December 2022 | €640.38  | €228.56    | **€-411.82**  |           |
+| January 2023  | €702.46  | €340.30    | **€-362.16**  |           |
+| February 2023 | €999.18  | €335.16    | **€-664.02**  | Change of hosting provider, one-time setup fee included  |
 
 Monthly costs for December 2022:
 
