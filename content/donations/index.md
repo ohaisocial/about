@@ -22,9 +22,13 @@ Currently, operation of ohai.social costs around €450/month.
 | November 2022 | €443.50  | €145.86    | **€-297.64**  |           |
 | December 2022 | €696.25  | €228.56    | **€-467.69**  |           |
 | January 2023  | €702.46  | €340.30    | **€-362.16**  |           |
-| February 2023 | €999.18  | €335.16    | **€-664.02**  | Change of hosting provider, one-time setup fee included  |
+| February 2023 | €999.18  | €335.16    | **€-664.02**  | ²         |
 | March 2023    | €302.56  | €322.22    | **€19.66**    |           |
 | April 2023    | €302.18  | €320.28    | **€18.10**    |           |
+| May 2023      | €302.72  | €321.28    | **€18.56**    |           |
+| June 2023     | €302.06  | €324.87    | **€22.81**    |           |
+| July 2023     | €314.10  | €337.83    | **€23.73**    |           |
+
 
 Monthly costs for December 2022:
 
@@ -38,6 +42,7 @@ Yearly costs:
 * DMCA agent registration: $6.00
 
 ¹ Amount we actually receive after taxes, Patreon fees and currency conversion.  
+² Change of hosting provider, one-time setup fee included
 
 ## FAQ
 ### I prefer not to use Patreon. Can I donate some other way?
