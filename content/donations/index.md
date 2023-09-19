@@ -28,6 +28,7 @@ Currently, operation of ohai.social costs around €320/month.
 | May 2023      | €302.72  | €321.28    | **€18.56**    |           |
 | June 2023     | €302.06  | €324.87    | **€22.81**    |           |
 | July 2023     | €314.10  | €337.83    | **€23.73**    |           |
+| August 2023   | €313.92  | €337.74    | **€23.82**    |           |
 
 
 Monthly costs for July 2023:
