@@ -16,7 +16,7 @@ ohai.social hingegen sprach die ersten Worte schon im Alter von zwei Stunden ins
 
 <iframe src="https://ohai.social/@ohai/109309770136074484/embed" class="mastodon-embed" style="max-width: 100%; border: 0; margin-top: .5rem; margin-bottom: 1.5rem;" width="400" allowfullscreen="allowfullscreen"></iframe>
 
-Über das Jahr sind auf ohai.social über 1 Million Posts veröffentlicht und 38,000 Accounts angelegt worden. Die aktuell ca. 3,600 aktiven Nutzenden haben dabei Kontakt zu nahezu 30.000 anderen Servern aufgenommen.
+Über das Jahr sind auf ohai.social über 1 Million Posts veröffentlicht und 38.000 Accounts angelegt worden. Die aktuell ca. 3.600 aktiven Nutzenden haben dabei Kontakt zu nahezu 30.000 anderen Servern aufgenommen.
 
 Unser dreiköpfiges Moderationsteam auf zwei Kontinenten hat im ersten Jahr insgesamt 945 Reports bearbeitet -- ungefähr 78 pro Monat und 3 am Tag. Von allen bisherigen Reports wurden 14% innerhalb von 60 Sekunden, 58% in 20 Minuten und 71% innerhalb einer Stunde bearbeitet. Der Rest waren größtenteils Sonderfälle, die wir erst als Team besprochen haben.
 
