@@ -12,6 +12,49 @@ minify:
   disableXML: true
   minifyOutput: true
 
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+languages:
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    weight: 1
+  de:
+    contentDir: content/de
+    disabled: false
+    languageCode: de-DE
+    languageDirection: ltr
+    languageName: Deutsch
+    weight: 2
+  ja:
+    contentDir: content/ja
+    disabled: false
+    languageCode: ja-JP
+    languageDirection: ltr
+    languageName: 日本語
+    weight: 3
+
+module:
+  mounts:
+    - source: content/en
+      target: content
+      lang: en
+    - source: content/de
+      target: content
+      lang: de
+    - source: content/ja
+      target: content
+      lang: ja
+    - source: content/en
+      target: content
+      lang: de
+    - source: content/en
+      target: content
+      lang: ja
+
 params:
   env: production
   title: about.ohai.social
@@ -20,6 +63,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: true
+  displayFullLangName: true
 
   ShowReadingTime: true
   ShowShareButtons: false
